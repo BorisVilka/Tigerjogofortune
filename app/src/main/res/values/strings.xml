@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Tiger - jogo fortune</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="policy">
+        This Privacy Policy (“Policy”) applies to the processing of your personal data when you access and use the Application (“App”). The Policy is designed to explain to you how do we collect and process your personal data, purposes, and legal bases for personal data processing, information about the transfer of your personal data, and the rights you have as a data subject.
+\n\n
+        We encourage You to take some time to read it through attentively because it applies to all personal data collected within the use of the App and our communication with you.
+        \n\n
+        If You have any questions concerning this Policy, our privacy practices, or want to exercise your rights please do not hesitate to contact our Support Team via e-mail bllancagoodoy@gmail.com
+        \n\n
+        We adhere to the data minimization principle and do not collect personal data that may be used for your direct identification. We do not intentionally process your data about you, except for some technical data about your device (if applicable) and information you may voluntarily provide to us by email communication.
+        \n\n
+        Сhildren’s Privacy
+        \n
+Please note, that our App is not intended for users under the legal age (in most of the countries this age is 18 years old). If you are under the legal age of your jurisdiction, you should stop the use of our App. If you used our App before discovering a fact, that this App is not intended for children, please, send us a notification to remove all your data.
+\n\n
+        Information for parents and legal guardians: if you discovered, that your child or ward used or uses our App, please, contact our Support Team via e-mail and we will remove all the information about your child or ward that we have.
+        \n\n
+        We assume no responsibility for any use of our App by the children.
+        \n\n
+What types of personal data do we collect?
+        \n\n
+We are trying to minimize personal data collected about you. Personal data we process are limited to:
+        \n\n
+Device data. We collect the following information about your device:
+        \n\n
+IP address;\n
+type of operating system, its version;\n
+devise identifiers.\n\n
+With whom do we share your personal data?\n\n
+We engage different natural and legal persons to ensure the correct and effective operation of the App, namely:\n\n
+Members of our team\n\n
+Our App is developed and maintained by a large staff. We may share your personal data with our employees, contractors, subcontractors, external consultants. We guarantee that these persons have a contractual obligation with us to process your personal data in accordance with this Policy and the applicable law.
+\n\n
+Providers of Analytics services
+        \n\n
+We use Analytics services to understand the needs of our users and optimize their experience with our App.
+        \n\n
+Firebase
+        \n\n
+Firebase is an analytics provider, owned by Google LLC, USA. Firebase collects from its SDK your Device data and Performance data to help us: A) track events in our App; B) monitor the behaviour of our users. For example, we track how our user reacts to the new functionality and features of our App; C) conduct A/B test via Firebase Remote Config. A/B tests mean that we will provide some categories of our users with new screens or functionality, tailored for the needs of the particular audience. Then, Firebase shall track on how users react to these changes; D) track how some particular incidents and events happened. For example, Firebase tracks how crashes of our App took place; F) prevent fraudulent, illegal use of our App.
+\n
+        In order to find out how Firebase processes your personal data, please, follow Privacy and Security Policy of Firebase.
+        \n\n
+OneSignal
+        \n\n
+OneSignal is a service provided by OneSignal, Inc., USA. OneSignal collects from its SDK your Device data and Performance data to help us: A) send, optimise and manage in-app messengers and push notifications; B) conduct A/B test. A/B testing is a way to compare up to 10 message variants on the same notifications to determine which one performs better.
+In order to find out how OneSignal processes your personal data, please, follow OneSignal Privacy Policy.
+
+
+\n\n
+
+Branch
+        \n\n
+Branch.io., USA  provides us with analytics and marketing services. Branch collects from its SDK your Device data and Performance data to help us: A) optimize our analytics and advertising campaigns; В) prevent fraudulent activity in the App.
+\n
+        In order to find out how Branch  processes your personal data, please, follow Branch Privacy Policy.
+\n\n
+        IT services providers
+        \n\n
+To provide you with the App and conduct our business we may engage other IT services providers, including but not limited to hosting host providers, cloud services providers
+\n\n
+        Public Authorities
+        \n\n
+We may disclose your data to the Public Authorities, such as Police, Court, Financial Regulators or their Investigation Units upon their lawful requests.
+\n
+        How long do we store and how do we protect your information?
+\n
+        Time limit for the storage of information:
+\n
+        We store your personal information as long as you use our App..
+\n\n
+Protection of personal data
+
+We protect data about you by the application of modern encryption standards. It means that your information can be decrypted only by use of the decryption key. The decryption keys are in exclusive access of authorized members of our team. It means, that even in case of any hypothetical leakage of the information, unauthorized entities would not get any of your information.
+\n\n
+
+Links to third-party services.
+\n\n
+This App may contain links to other sites. If you click on a third-party link, you will be directed to that site or service. Note that these external sites/services are not operated by us. Therefore, we strongly advise you to review the Privacy Policy or another privacy document of these websites/services. Wehave no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+\n\n
+        Changes to this Policy.
+        \n\n
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+    </string>
+</resources>

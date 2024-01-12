@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079674481022",
+    "project_id": "tiger---jogo-fortune",
+    "storage_bucket": "tiger---jogo-fortune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079674481022:android:a7556890bba645970feb2f",
+        "android_client_info": {
+          "package_name": "com.fortkto.gametigerone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClsMb6UGCG1vMDmc3FX-HLnx0cPT-M2D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
